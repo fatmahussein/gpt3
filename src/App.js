@@ -1,4 +1,6 @@
 import React from 'react';
+import { Footer,Header,whatGPT3,Blog ,Possibility,Features} from './containers';
+import { CTA, Brand, Navbar } from './components';
 
 const App = () => {
   return (
