@@ -4,8 +4,19 @@ import { CTA, Brand, Navbar } from './components';
 
 const App = () => {
   return (
-    <div>
-      GPT-3
+    <div className='App'>
+    <div className='gradient__bg'>
+      <Navbar />
+      <Header />
+    </div>
+      <Brand />
+      <whatGPT3 />
+      <Features />
+      <Possibility />
+      <CTA />
+      <Blog />
+      <Footer />
+
     </div>
   )
 }
