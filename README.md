@@ -30,12 +30,6 @@
 
 **GPT3 OpenAI** is a website that showcase OpenAI libraries.
 
-<div align="center">
-  <img src="[./src/images/Capture.PNG](https://camo.githubusercontent.com/ce00619bb441026b0f755f46a50d7e95c67585a08a2c56d31cb1409de71e88f1/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67)" alt="pic" width="140"  height="auto" />
-
-  <br/>
-</div>
-
 ## 🛠️ Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
